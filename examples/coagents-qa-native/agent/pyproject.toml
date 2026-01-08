@@ -36,7 +36,7 @@ crewai = "0.118.0"
 langgraph = ">=0.2.50"
 uvicorn = "^0.31.0"
 python-dotenv = "^1.0.1"
-langchain-core = "^0.3.66"
+langchain-core = "^0.3.80"
 langgraph-cli = {extras = ["inmem"], version = ">=0.3.3"}
 
 [tool.poetry.scripts]
